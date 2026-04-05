@@ -10,7 +10,7 @@ Ce laboratoire a pour objectif de comprendre et maîtriser l’utilisation des *
 - Comprendre le **cycle de vie d’un fragment**.
 
 ---
-
+<img src="./image/demo.png" alt="Demo de l'application" width="300"/>
 ## 🧠 Concepts clés
 
 ### 🔹 Fragments
